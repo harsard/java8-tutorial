@@ -15,6 +15,7 @@ public class HttpClientExamples {
 //        syncRequest();
 //        asyncRequest();
 //        postData();
+//        postData();
         basicAuth();
     }
 
